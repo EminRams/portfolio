@@ -1,0 +1,64 @@
+---
+import Section from "../Section.astro";
+import HTML from "@/icons/html.astro";
+import CSS from "@/icons/css.astro";
+import JavaScript from "@/icons/javascript.astro";
+import React from "@/icons/react.astro";
+import SQL from "@/icons/sql.astro";
+import Tailwind from "@/icons/tailwind.astro";
+import PHP from "@/icons/php.astro";
+import Laravel from "@/icons/laravel.astro";
+import Bootstrap from "@/icons/bootstrap.astro";
+import Python from "@/icons/python.astro";
+import { programmingLanguages } from "@cv";
+
+const LANGUAGE_ICONS: Record<string, any> = {
+  HTML,
+  CSS,
+  JavaScript,
+  React,
+  SQL,
+  PHP,
+  Tailwind,
+  Laravel,
+  Bootstrap,
+  Python,
+};
+---
+
+<Section title="Lenguajes">
+  <ul>
+    {
+      programmingLanguages.map(({ name }) => {
+        const iconName = name === "Next.js" ? "Next" : name;
+        const Icon = LANGUAGE_ICONS[iconName];
+
+        return (
+          <li>
+            {Icon && <Icon />} <span>{name}</span>
+          </li>
+        );
+      })
+    }
+  </ul>
+</Section>
+
+<style>
+  ul {
+    display: inline-flex;
+    gap: 8px;
+    flex-wrap: wrap;
+  }
+
+  li {
+    align-items: center;
+    background: #eee;
+    border-radius: 6px;
+    color: black;
+    display: flex;
+    font-size: 0.8rem;
+    font-weight: 500;
+    gap: 4px;
+    padding: 0.2rem 0.6rem;
+  }
+</style>

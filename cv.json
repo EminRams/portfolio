@@ -6,7 +6,7 @@
     "email": "eminramos16@gmail.com",
     "phone": "+504 8899-4774",
     "url": "https://nothin.yet",
-    "summary": "Soy una persona apasionada por el mundo de la computación, principalmente por el desarrollo de software. Cuento con la facilidad de trabajar en equipo, soy capaz de identificar y abordar problemas, además de ser muy organizado.",
+    "summary": "Soy una persona apasionada por el mundo de la computación, principalmente por el desarrollo de software. Cuento con la facilidad de trabajar en equipo, soy capaz de identificar y abordar problemas, además de adaptarme a cualquier entorno con facilidad.",
     "location": {
       "address": "",
       "postalCode": "31101",
@@ -33,7 +33,7 @@
       "position": "Desarrollador Web",
       "startDate": "2023-09-31",
       "endDate": "2023-12-01",
-      "summary": "Desarrollé una aplicación web que era de utilidad para gestionar el inventario del departamento de TI. Tambíen una aplicación web que facilitaba la creación de tickets para los clientes donde las cajas podían atender dichos tickets de una manera más eficiente."
+      "summary": "Desarrollé una aplicación web que era de utilidad para gestionar el inventario del departamento de TI. Tambíen una aplicación web que facilitaba la creación de tickets para los clientes donde los cajeros podían atender dichos tickets de una manera más eficiente."
     }
   ],
   "education": [
@@ -61,19 +61,77 @@
   ],
   "certificates": [
     {
+      "name": "Excelencia Académica Instituto Manuel Bonilla",
+      "date": "2019-11-01"
+    },
+    {
       "name": "Certificado Cisco CCNA v7: Introducción a Redes",
       "date": "2021-09-01"
     },
     {
       "name": "Excelencia Académica Universidad Católica de Honduras",
       "date": "2022-04-01"
-    },
-    {
-      "name": "Excelencia Académica Instituto Manuel Bonilla",
-      "date": "2019-11-01"
     }
   ],
   "skills": [
+    {
+      "name": "Microsoft Office",
+      "keywords": [
+        "Ofimatica"
+      ]
+    },
+    {
+      "name": "Control de Versiones (GitHub)",
+      "keywords": [
+        "Git",
+        "Github",
+        "codigo fuente"
+      ]
+    },
+    {
+      "name": "Manejo de Sistemas Operativos",
+      "keywords": [
+        "Linux",
+        "Stack Lemp",
+        "Windows",
+        "Windows Server"
+      ]
+    },
+    {
+      "name": "Desarrollo y Administración de Bases de Datos",
+      "keywords": [
+        "sql server",
+        "mysql",
+        "bases de datos",
+        "relaciones",
+        "no relacionales"
+      ]
+    },
+    {
+      "name": "Mantenimiento Preventivo",
+      "keywords": [
+        "mantenimiento",
+        "limpieza",
+        "actualizaciones de software"
+      ]
+    },
+    {
+      "name": "Mantenimiento Correctivo",
+      "keywords": [
+        "mantenimiento",
+        "limpieza",
+        "manejo y cuidado de equipos"
+      ]
+    },
+    {
+      "name": "Soporte Técnico",
+      "keywords": [
+        "comunicación",
+        "resolución de problemas"
+      ]
+    }
+  ],
+  "programmingLanguages": [
     {
       "name": "HTML",
       "keywords": [
@@ -99,7 +157,7 @@
       ]
     },
     {
-      "name": "PhP",
+      "name": "PHP",
       "keywords": [
         "Desarrollo Web",
         "Backend"
@@ -132,15 +190,6 @@
       ]
     },
     {
-      "name": "Node",
-      "keywords": [
-        "Desarrollo Web",
-        "Backend",
-        "JavaScript",
-        "Servidor"
-      ]
-    },
-    {
       "name": "C",
       "keywords": [
         "Desarrollo de Software",
@@ -162,29 +211,12 @@
       ]
     },
     {
-      "name": "MySQL",
+      "name": "SQL",
       "keywords": [
         "Bases de Datos",
         "SQL",
         "Almacenamiento de Datos",
         "Backend"
-      ]
-    },
-    {
-      "name": "Git",
-      "keywords": [
-        "Control de Versiones",
-        "Colaboración",
-        "Código Fuente"
-      ]
-    },
-    {
-      "name": "GitHub",
-      "keywords": [
-        "Control de Versiones",
-        "Colaboración",
-        "Código Fuente",
-        "Git"
       ]
     },
     {
@@ -206,12 +238,10 @@
   ],
   "languages": [
     {
-      "language": "Español",
-      "fluency": "Nativo"
+      "language": "Español Nativo"
     },
     {
-      "language": "Ingles",
-      "fluency": "Intermedio"
+      "language": "Ingles Intermedio"
     }
   ],
   "references": [
