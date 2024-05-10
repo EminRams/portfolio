@@ -11,11 +11,11 @@ import Languages from "@/components/sections/Languages.astro";
 import Certificates from "@/components/sections/Certificates.astro";
 import KeyboardManager from "@/components/KeyboardManager.astro";
 
-import { basics } from "@cv";
+import { basics } from "@cv_en";
 const { name, label } = basics;
 ---
 
-<Layout title={`Portafolio de ${name} - ${label}`}>
+<Layout title={`Portafolio By ${name} - ${label}`}>
   <main>
     <Hero />
     <About />
@@ -23,6 +23,7 @@ const { name, label } = basics;
     <Education />
     <Certificates />
     <Projects />
+    <br><br><br>
     <Skills />
     <Languages />
   </main>
