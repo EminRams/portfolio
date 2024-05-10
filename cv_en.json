@@ -1,12 +1,12 @@
 {
   "basics": {
     "name": "Emin Yahir Ramos Ramirez",
-    "label": "Ingeniero en Ciencias de la Computación",
+    "label": "Computer Science Ingineering",
     "image": "/me.webp",
     "email": "eminramos16@gmail.com",
     "phone": "+504 8899-4774",
     "url": "https://nothin.yet",
-    "summary": "Soy una persona apasionada por el mundo de la computación, principalmente por el desarrollo de software y la manipulación de hardware. Cuento con la facilidad de trabajar en equipo, soy capaz de identificar y abordar problemas, además de adaptarme a cualquier entorno con facilidad.",
+    "summary": "I am a passionate person about technology, mainly about software development and hardware manipulation, which can help you to identify, analyze and address problems. I have the ease of fitting into any team, as well as adapt to any enviroment.",
     "location": {
       "address": "",
       "postalCode": "31101",
@@ -30,64 +30,64 @@
   "work": [
     {
       "name": "Hospital Vicente D'Antoni",
-      "position": "Desarrollador Web",
+      "position": "Web Developer",
       "startDate": "2023-09-31",
       "endDate": "2023-12-01",
-      "summary": "Desarrollé una aplicación web que era de utilidad para gestionar el inventario del departamento de TI. Tambíen una aplicación web que facilitaba la creación de tickets para los clientes donde los cajeros podían atender dichos tickets de una manera más eficiente."
+      "summary": "During my position in this role I developed applications that were helpful for inventory control in the IT area and for efficiently managing customer service queues through a helpdesk system."
     }
   ],
   "education": [
     {
       "institution": "Escuela Guía Técnica Guadalupe de Quezada",
-      "area": "Educación Primaria",
-      "studyType": "Educación Básica",
+      "area": "Primary Education",
+      "studyType": "Basic Education",
       "startDate": "2008-02-01",
       "endDate": "2014-11-20"
     },
     {
       "institution": "Instituto Oficial Manuel Bonilla",
-      "area": "Educación Secundaria y Bachiller en Ciencias y Humanidades",
-      "studyType": "Educación Básica",
+      "area": "Middle School & Bachelor in Sciences and Humanities",
+      "studyType": "Middle & High School",
       "startDate": "2015-02-01",
       "endDate": "2019-11-20"
     },
     {
       "institution": "Universidad Católica de Honduras UNICAH",
-      "area": "Ingeniería en Ciencias de la Computación",
-      "studyType": "Educación Básica",
+      "area": "Computer Science Ingineering",
+      "studyType": "College Degree",
       "startDate": "2020-01-20",
       "endDate": "2024-12-10"
     }
   ],
   "certificates": [
     {
-      "name": "Excelencia Académica Instituto Manuel Bonilla",
+      "name": "Honor Certificate Instituto Manuel Bonilla",
       "date": "2019-11-01"
     },
     {
-      "name": "Certificado Cisco CCNA v7: Introducción a Redes",
+      "name": "Certificate Cisco CCNA v7: Introduction to Networks",
       "date": "2021-09-01"
     },
     {
-      "name": "Excelencia Académica Universidad Católica de Honduras",
+      "name": "Honor Certificate Universidad Católica de Honduras",
       "date": "2022-04-01"
     }
   ],
   "skills": [
     {
-      "name": "Manejo de la Suite Microsoft Office",
+      "name": "Proficiency in Microsoft Office Suite",
       "keywords": [
         "Ofimatica"
       ]
     },
     {
-      "name": "Manejo de Microsoft Power BI",
+      "name": "Proficiency in Microsoft Power BI",
       "keywords": [
         "Análisis de datos"
       ]
     },
     {
-      "name": "Control de Versiones (GitHub)",
+      "name": "Version Control System (GitHub)",
       "keywords": [
         "Git",
         "Github",
@@ -95,7 +95,7 @@
       ]
     },
     {
-      "name": "Manejo de Sistemas Operativos",
+      "name": "Operating Systems Management",
       "keywords": [
         "Linux",
         "Stack Lemp",
@@ -104,7 +104,7 @@
       ]
     },
     {
-      "name": "Desarrollo y Administración de Bases de Datos",
+      "name": "Database Development and Administration",
       "keywords": [
         "sql server",
         "mysql",
@@ -114,7 +114,7 @@
       ]
     },
     {
-      "name": "Mantenimiento Preventivo",
+      "name": "Preventive Maintenance",
       "keywords": [
         "mantenimiento",
         "limpieza",
@@ -122,7 +122,7 @@
       ]
     },
     {
-      "name": "Mantenimiento Correctivo",
+      "name": "Corrective Maintenance",
       "keywords": [
         "mantenimiento",
         "limpieza",
@@ -130,14 +130,14 @@
       ]
     },
     {
-      "name": "Soporte Técnico",
+      "name": "Technical Support",
       "keywords": [
         "comunicación",
         "resolución de problemas"
       ]
     },
     {
-      "name": "Análisis y comprensión de datos de manera eficaz",
+      "name": "Effective Data Analysis and Understanding",
       "keywords": [
         "comunicación",
         "resolución de problemas"
@@ -251,10 +251,10 @@
   ],
   "languages": [
     {
-      "language": "Español Nativo"
+      "language": "Native Spanish Speaker"
     },
     {
-      "language": "Ingles Intermedio"
+      "language": "Intermediate English"
     }
   ],
   "references": [
@@ -267,7 +267,7 @@
     {
       "name": "IT-Management",
       "isActive": true,
-      "description": "Aplicación web para la gestión de inventario de dispositivos tecnológicos.",
+      "description": "Web application for the management of technological devices inventory.",
       "highlights": [
         "Laravel",
         "FilamentPhP"
@@ -277,7 +277,7 @@
     {
       "name": "Ecommerce",
       "isActive": true,
-      "description": "Ecommerce funcional desarrollado en conjunto con compañeros de universidad.",
+      "description": "E-commerce platform developed in collaboration with university colleagues.",
       "highlights": [
         "PhP",
         "Desarrollo en Equipo"
@@ -287,7 +287,7 @@
     {
       "name": "Queue Management",
       "isActive": false,
-      "description": "Aplicación Web para la creación tickets y gestión de las colas de espera de los clientes.",
+      "description": "DeskHelp Web application for ticket creation and management of customer queues.",
       "highlights": [
         "Privado",
         "Laravel",
