@@ -295,6 +295,18 @@
         "Web Sockets"
       ],
       "github": "https://github.com/amoradel/queue-management"
+    },
+    {
+      "name": "PetShop Layout",
+      "isActive": true,
+      "description": "Plantilla basada en Bootstrap para una tienda de veterinaria con diseño responsive.",
+      "highlights": [
+        "Html",
+        "Css",
+        "Bootstrap",
+        "PhP"
+      ],
+      "github": "https://github.com/EminRams/PetShop_Layout"
     }
   ]
 }
