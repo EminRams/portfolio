@@ -295,6 +295,18 @@
         "Web Sockets"
       ],
       "github": "https://github.com/amoradel/queue-management"
+    },
+    {
+      "name": "PetShop Layout",
+      "isActive": true,
+      "description": "Layouy based on Bootstrap for a pet shop with a responsive design.",
+      "highlights": [
+        "Html",
+        "Css",
+        "Bootstrap",
+        "PhP"
+      ],
+      "github": "https://github.com/EminRams/PetShop_Layout"
     }
   ]
 }
