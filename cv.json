@@ -33,24 +33,10 @@
       "position": "Desarrollador Web",
       "startDate": "2023-09-31",
       "endDate": "2023-12-01",
-      "summary": "Desarrollé una aplicación web que era de utilidad para gestionar el inventario del departamento de TI. Tambíen una aplicación web que facilitaba la creación de tickets para los clientes donde los cajeros podían atender dichos tickets de una manera más eficiente."
-    }
+      "summary": "Elaboración de Aplicaciones Web para la gestión de inventario y colas de espera. Realización de Mantenimientos Preventivos y Evolutivos a los equipos tecnológicos. Instalación de Puntos de Red y Dispositivos de Seguridad."
+      }
   ],
   "education": [
-    {
-      "institution": "Escuela Guía Técnica Guadalupe de Quezada",
-      "area": "Educación Primaria",
-      "studyType": "Educación Básica",
-      "startDate": "2008-02-01",
-      "endDate": "2014-11-20"
-    },
-    {
-      "institution": "Instituto Oficial Manuel Bonilla",
-      "area": "Educación Secundaria y Bachiller en Ciencias y Humanidades",
-      "studyType": "Educación Básica",
-      "startDate": "2015-02-01",
-      "endDate": "2019-11-20"
-    },
     {
       "institution": "Universidad Católica de Honduras UNICAH",
       "area": "Ingeniería en Ciencias de la Computación",
@@ -61,8 +47,8 @@
   ],
   "certificates": [
     {
-      "name": "Excelencia Académica Instituto Manuel Bonilla",
-      "date": "2019-11-01"
+      "name": "Certificado de Ingles EF SET: C2 Proficiente",
+      "date": "2024-05-08"
     },
     {
       "name": "Certificado Cisco CCNA v7: Introducción a Redes",
@@ -233,7 +219,15 @@
       ]
     },
     {
-      "name": "React",
+      "name": "Node",
+      "keywords": [
+        "Desarrollo Web",
+        "Rest API",
+        "Backend"
+      ]
+    },
+    {
+      "name": "ReactNative",
       "keywords": [
         "Desarrollo Web",
         "Frontend",
@@ -295,18 +289,6 @@
         "Web Sockets"
       ],
       "github": "https://github.com/amoradel/queue-management"
-    },
-    {
-      "name": "PetShop Layout",
-      "isActive": true,
-      "description": "Plantilla basada en Bootstrap para una tienda de veterinaria con diseño responsive.",
-      "highlights": [
-        "Html",
-        "Css",
-        "Bootstrap",
-        "PhP"
-      ],
-      "github": "https://github.com/EminRams/PetShop_Layout"
     }
   ]
 }
