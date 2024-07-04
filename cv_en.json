@@ -38,22 +38,8 @@
   ],
   "education": [
     {
-      "institution": "Escuela Guía Técnica Guadalupe de Quezada",
-      "area": "Primary Education",
-      "studyType": "Basic Education",
-      "startDate": "2008-02-01",
-      "endDate": "2014-11-20"
-    },
-    {
-      "institution": "Instituto Oficial Manuel Bonilla",
-      "area": "Middle School & Bachelor in Sciences and Humanities",
-      "studyType": "Middle & High School",
-      "startDate": "2015-02-01",
-      "endDate": "2019-11-20"
-    },
-    {
       "institution": "Universidad Católica de Honduras UNICAH",
-      "area": "Computer Science Ingineering",
+      "area": "Computer Science Engineering",
       "studyType": "College Degree",
       "startDate": "2020-01-20",
       "endDate": "2024-12-10"
@@ -61,16 +47,16 @@
   ],
   "certificates": [
     {
-      "name": "Honor Certificate Instituto Manuel Bonilla",
-      "date": "2019-11-01"
-    },
-    {
-      "name": "Certificate Cisco CCNA v7: Introduction to Networks",
-      "date": "2021-09-01"
+      "name": "EF SET English Certificate C2 Proficient",
+      "date": "2024-05-08"
     },
     {
       "name": "Honor Certificate Universidad Católica de Honduras",
       "date": "2022-04-01"
+    },
+    {
+      "name": "Certificate Cisco CCNA v7: Introduction to Networks",
+      "date": "2021-09-01"
     }
   ],
   "skills": [
@@ -295,18 +281,6 @@
         "Web Sockets"
       ],
       "github": "https://github.com/amoradel/queue-management"
-    },
-    {
-      "name": "PetShop Layout",
-      "isActive": true,
-      "description": "Layouy based on Bootstrap for a pet shop with a responsive design.",
-      "highlights": [
-        "Html",
-        "Css",
-        "Bootstrap",
-        "PhP"
-      ],
-      "github": "https://github.com/EminRams/PetShop_Layout"
     }
   ]
 }
