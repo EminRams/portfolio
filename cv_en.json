@@ -1,7 +1,7 @@
 {
   "basics": {
     "name": "Emin Yahir Ramos Ramirez",
-    "label": "Computer Science Ingineering",
+    "label": "Computer Science Engineering",
     "image": "/me.webp",
     "email": "eminramos16@gmail.com",
     "phone": "+504 8899-4774",
@@ -33,7 +33,7 @@
       "position": "Web Developer",
       "startDate": "2023-09-31",
       "endDate": "2023-12-01",
-      "summary": "During my position in this role I developed applications that were helpful for inventory control in the IT area and for efficiently managing customer service queues through a helpdesk system."
+      "summary": "Development of Web Applications for inventory and waiting queue management. Carrying out Preventive and Evolutionary Maintenance on technological equipment. Installation of Network Points and Security Devices."
     }
   ],
   "education": [
@@ -219,7 +219,15 @@
       ]
     },
     {
-      "name": "React",
+      "name": "Node",
+      "keywords": [
+        "Desarrollo Web",
+        "Rest API",
+        "Backend"
+      ]
+    },
+    {
+      "name": "ReactNative",
       "keywords": [
         "Desarrollo Web",
         "Frontend",
