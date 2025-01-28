@@ -9,8 +9,8 @@
     "summary": "Soy una persona apasionada por el mundo de la computación, principalmente por el desarrollo de software y la manipulación de hardware. Cuento con la facilidad de trabajar en equipo, soy capaz de identificar y abordar problemas, además de adaptarme a cualquier entorno con facilidad.",
     "location": {
       "address": "",
-      "postalCode": "31101",
-      "city": "La Ceiba",
+      "postalCode": "21101",
+      "city": "San Pedro Sula",
       "countryCode": "HN",
       "region": "Honduras"
     },
@@ -221,6 +221,14 @@
       "keywords": [
         "Desarrollo de Software",
         "Escritorio"
+      ]
+    },
+    {
+      "name": "ASP.NET Core",
+      "keywords": [
+        "Desarrollo Web",
+        "Backend",
+        "C# Framework"
       ]
     },
     {

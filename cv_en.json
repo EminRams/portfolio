@@ -9,8 +9,8 @@
     "summary": "I am a passionate person about technology, mainly about software development and hardware manipulation, which can help you to identify, analyze and address problems. I have the ease of fitting into any team, as well as adapt to any enviroment.",
     "location": {
       "address": "",
-      "postalCode": "31101",
-      "city": "La Ceiba",
+      "postalCode": "21101",
+      "city": "San Pedro Sula",
       "countryCode": "HN",
       "region": "Honduras"
     },
@@ -29,11 +29,17 @@
   },
   "work": [
     {
-      "name": "Hospital Vicente D'Antoni",
+      "name": "Internship - Hospital Vicente D'Antoni",
       "position": "Web Developer",
       "startDate": "2023-09-31",
       "endDate": "2023-12-01",
       "summary": "Development of Web Applications for inventory and waiting queue management. Carrying out Preventive and Evolutionary Maintenance on technological equipment. Installation of Network Points and Security Devices."
+    },
+    {
+      "name": "Grupo Carrion",
+      "position": "Full Stack Developer / Technical Support Engineer",
+      "startDate": "2024-10-28",
+      "summary": "Development and Implementation of an employment portal and a payment portal. Updates and maintenance of hardware and software for technological equipment. Support and troubleshooting of issues related to internal applications. Administration and optimization of database queries and processes."
     }
   ],
   "education": [
@@ -207,6 +213,14 @@
       "keywords": [
         "Desarrollo de Software",
         "Escritorio"
+      ]
+    },
+    {
+      "name": "ASP.NET Core",
+      "keywords": [
+        "Desarrollo Web",
+        "Backend",
+        "C# Framework"
       ]
     },
     {
