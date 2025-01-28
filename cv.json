@@ -30,11 +30,17 @@
   "work": [
     {
       "name": "Hospital Vicente D'Antoni",
-      "position": "Desarrollador Web",
+      "position": "Práctica Profesional - Desarrollador Web",
       "startDate": "2023-09-31",
       "endDate": "2023-12-01",
       "summary": "Elaboración de Aplicaciones Web para la gestión de inventario y colas de espera. Realización de Mantenimientos Preventivos y Evolutivos a los equipos tecnológicos. Instalación de Puntos de Red y Dispositivos de Seguridad."
-      }
+    },
+    {
+      "name": "Tiendas Carrion",
+      "position": "Desarrollador Full Stack / Ingeniero de Soporte Tecnológico",
+      "startDate": "2024-10-28",
+      "summary": "Elaboración e Implementación de portal de empleos y portal de pagos. Actualizaciones y mantenimiento de hardware y software de equipo tecnológico. Soporte y resolución de incidencias relacionadas a aplicaciones internas. Administración y optimización de consultas y procesos de bases de datos." 
+    }
   ],
   "education": [
     {
